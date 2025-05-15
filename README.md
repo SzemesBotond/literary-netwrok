@@ -2,6 +2,7 @@ Az irodalomtörténet hálózatos megjelenítése című tanulmányhoz tartozó 
 
 1. 100regeny mappa:
    - network-color.png: a tanulmányban közölt ábra színes verziója
+   - appedix-uniform-spelling.png: 100 regény stiláris viszonya egységesített helyesírással
    - stylo almappa: a stiláris hasonlóság kiszámításához használt R-kód a stylo szoftver segítéségével; a számítások főbb adatai külön txt fájlként.
    - gephi-input almappa: a stylo csomag segíségével kiszámított hasonlóságok kimenete csv fájlként, amely használható a gephi szoftver bemenetének. Kétféle verzió: a regények eredeti szövegén alapuló, és az egységesített helyesírással létrejött fájlok
 
@@ -9,7 +10,9 @@ Az irodalomtörténet hálózatos megjelenítése című tanulmányhoz tartozó 
    - network-pos-20-200-3gram-16modularity.png: a tanulmányban közölt ábra színes verziója
    - stylo almappa: R-kód: az előzetesen nyelvileg elemzett (lemmatizált és pos-tagekkel ellátott) szövegekből a főszófajok kicserélése a szófaji címkékre, illetve a stiláris hasonlóság elemzése a stylo csomaggal; a számítások főbb adatai külön txt és csv fájlként.
    - novels-with-postags: az átalakított regényszövegek a műfaji címkékkel
-   - gephi:  stylo csomag segíségével kiszámított hasonlóságok kimenete csv fájlként, amely használható a gephi szoftver bemenetének + az ábra létrehozása Gephiben. 
+   - gephi:  stylo csomag segíségével kiszámított hasonlóságok kimenete csv fájlként, amely használható a gephi szoftver bemenetének + az ábra létrehozása Gephiben.
+  
+3. ábrák: a tanulmányban közölt ábrák
 
 
 A tanulmány absztraktja:
